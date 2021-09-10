@@ -1,0 +1,80 @@
+D:\Escritorio\Pruebas VC\obj\Debug\net5.0\Pruebas VC.csproj.AssemblyReference.cache
+D:\Escritorio\Pruebas VC\obj\Debug\net5.0\Pruebas VC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Pruebas VC\obj\Debug\net5.0\Pruebas VC.AssemblyInfoInputs.cache
+D:\Escritorio\Pruebas VC\obj\Debug\net5.0\Pruebas VC.AssemblyInfo.cs
+D:\Escritorio\Pruebas VC\obj\Debug\net5.0\Pruebas VC.csproj.CoreCompileInputs.cache
+D:\Escritorio\Pruebas VC\bin\Debug\net5.0\Pruebas VC.exe
+D:\Escritorio\Pruebas VC\bin\Debug\net5.0\Pruebas VC.deps.json
+D:\Escritorio\Pruebas VC\bin\Debug\net5.0\Pruebas VC.runtimeconfig.json
+D:\Escritorio\Pruebas VC\bin\Debug\net5.0\Pruebas VC.runtimeconfig.dev.json
+D:\Escritorio\Pruebas VC\bin\Debug\net5.0\Pruebas VC.dll
+D:\Escritorio\Pruebas VC\bin\Debug\net5.0\ref\Pruebas VC.dll
+D:\Escritorio\Pruebas VC\bin\Debug\net5.0\Pruebas VC.pdb
+D:\Escritorio\Pruebas VC\obj\Debug\net5.0\Pruebas VC.dll
+D:\Escritorio\Pruebas VC\obj\Debug\net5.0\ref\Pruebas VC.dll
+D:\Escritorio\Pruebas VC\obj\Debug\net5.0\Pruebas VC.pdb
+D:\Escritorio\Pruebas VC\obj\Debug\net5.0\Pruebas VC.genruntimeconfig.cache
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\bin\Debug\net5.0\Pruebas VC.exe
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\bin\Debug\net5.0\Pruebas VC.deps.json
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\bin\Debug\net5.0\Pruebas VC.runtimeconfig.json
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\bin\Debug\net5.0\Pruebas VC.runtimeconfig.dev.json
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\bin\Debug\net5.0\Pruebas VC.dll
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\bin\Debug\net5.0\ref\Pruebas VC.dll
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\bin\Debug\net5.0\Pruebas VC.pdb
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\obj\Debug\net5.0\Pruebas VC.csproj.AssemblyReference.cache
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\obj\Debug\net5.0\Pruebas VC.GeneratedMSBuildEditorConfig.editorconfig
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\obj\Debug\net5.0\Pruebas VC.AssemblyInfoInputs.cache
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\obj\Debug\net5.0\Pruebas VC.AssemblyInfo.cs
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\obj\Debug\net5.0\Pruebas VC.csproj.CoreCompileInputs.cache
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\obj\Debug\net5.0\Pruebas VC.dll
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\obj\Debug\net5.0\ref\Pruebas VC.dll
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\obj\Debug\net5.0\Pruebas VC.pdb
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\obj\Debug\net5.0\Pruebas VC.genruntimeconfig.cache
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\bin\Debug\net5.0\Pruebas VC.exe
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\bin\Debug\net5.0\Pruebas VC.deps.json
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\bin\Debug\net5.0\Pruebas VC.runtimeconfig.json
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\bin\Debug\net5.0\Pruebas VC.runtimeconfig.dev.json
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\bin\Debug\net5.0\Pruebas VC.dll
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\bin\Debug\net5.0\ref\Pruebas VC.dll
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\bin\Debug\net5.0\Pruebas VC.pdb
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\obj\Debug\net5.0\Pruebas VC.csproj.AssemblyReference.cache
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\obj\Debug\net5.0\Pruebas VC.GeneratedMSBuildEditorConfig.editorconfig
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\obj\Debug\net5.0\Pruebas VC.AssemblyInfoInputs.cache
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\obj\Debug\net5.0\Pruebas VC.AssemblyInfo.cs
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\obj\Debug\net5.0\Pruebas VC.csproj.CoreCompileInputs.cache
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\obj\Debug\net5.0\Pruebas VC.dll
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\obj\Debug\net5.0\ref\Pruebas VC.dll
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\obj\Debug\net5.0\Pruebas VC.pdb
+D:\MisionTIC2022\Ciclo I\Fundamentos de programación\Ejercicios\C#\obj\Debug\net5.0\Pruebas VC.genruntimeconfig.cache
+D:\MisionTIC2022\Desarrollo\C#\bin\Debug\net5.0\Pruebas VC.exe
+D:\MisionTIC2022\Desarrollo\C#\bin\Debug\net5.0\Pruebas VC.deps.json
+D:\MisionTIC2022\Desarrollo\C#\bin\Debug\net5.0\Pruebas VC.runtimeconfig.json
+D:\MisionTIC2022\Desarrollo\C#\bin\Debug\net5.0\Pruebas VC.runtimeconfig.dev.json
+D:\MisionTIC2022\Desarrollo\C#\bin\Debug\net5.0\Pruebas VC.dll
+D:\MisionTIC2022\Desarrollo\C#\bin\Debug\net5.0\ref\Pruebas VC.dll
+D:\MisionTIC2022\Desarrollo\C#\bin\Debug\net5.0\Pruebas VC.pdb
+D:\MisionTIC2022\Desarrollo\C#\obj\Debug\net5.0\Pruebas VC.csproj.AssemblyReference.cache
+D:\MisionTIC2022\Desarrollo\C#\obj\Debug\net5.0\Pruebas VC.GeneratedMSBuildEditorConfig.editorconfig
+D:\MisionTIC2022\Desarrollo\C#\obj\Debug\net5.0\Pruebas VC.AssemblyInfoInputs.cache
+D:\MisionTIC2022\Desarrollo\C#\obj\Debug\net5.0\Pruebas VC.AssemblyInfo.cs
+D:\MisionTIC2022\Desarrollo\C#\obj\Debug\net5.0\Pruebas VC.csproj.CoreCompileInputs.cache
+D:\MisionTIC2022\Desarrollo\C#\obj\Debug\net5.0\Pruebas VC.dll
+D:\MisionTIC2022\Desarrollo\C#\obj\Debug\net5.0\ref\Pruebas VC.dll
+D:\MisionTIC2022\Desarrollo\C#\obj\Debug\net5.0\Pruebas VC.pdb
+D:\MisionTIC2022\Desarrollo\C#\obj\Debug\net5.0\Pruebas VC.genruntimeconfig.cache
+D:\Develop-IngeCorp\Lenguajes\C#\bin\Debug\net5.0\Pruebas VC.exe
+D:\Develop-IngeCorp\Lenguajes\C#\bin\Debug\net5.0\Pruebas VC.deps.json
+D:\Develop-IngeCorp\Lenguajes\C#\bin\Debug\net5.0\Pruebas VC.runtimeconfig.json
+D:\Develop-IngeCorp\Lenguajes\C#\bin\Debug\net5.0\Pruebas VC.runtimeconfig.dev.json
+D:\Develop-IngeCorp\Lenguajes\C#\bin\Debug\net5.0\Pruebas VC.dll
+D:\Develop-IngeCorp\Lenguajes\C#\bin\Debug\net5.0\ref\Pruebas VC.dll
+D:\Develop-IngeCorp\Lenguajes\C#\bin\Debug\net5.0\Pruebas VC.pdb
+D:\Develop-IngeCorp\Lenguajes\C#\obj\Debug\net5.0\Pruebas VC.csproj.AssemblyReference.cache
+D:\Develop-IngeCorp\Lenguajes\C#\obj\Debug\net5.0\Pruebas VC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop-IngeCorp\Lenguajes\C#\obj\Debug\net5.0\Pruebas VC.AssemblyInfoInputs.cache
+D:\Develop-IngeCorp\Lenguajes\C#\obj\Debug\net5.0\Pruebas VC.AssemblyInfo.cs
+D:\Develop-IngeCorp\Lenguajes\C#\obj\Debug\net5.0\Pruebas VC.csproj.CoreCompileInputs.cache
+D:\Develop-IngeCorp\Lenguajes\C#\obj\Debug\net5.0\Pruebas VC.dll
+D:\Develop-IngeCorp\Lenguajes\C#\obj\Debug\net5.0\ref\Pruebas VC.dll
+D:\Develop-IngeCorp\Lenguajes\C#\obj\Debug\net5.0\Pruebas VC.pdb
+D:\Develop-IngeCorp\Lenguajes\C#\obj\Debug\net5.0\Pruebas VC.genruntimeconfig.cache

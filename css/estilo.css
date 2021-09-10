@@ -1,0 +1,12 @@
+.fondo {
+	background: linear-gradient(left, tomato, cyan, lightgreen);
+}
+
+div{ border: 1px solid; float: left;
+	height: 140px; width: 140px;
+	margin:10px 15px;
+	font-size: 20px; font-weight:bold; text-align:center;
+	padding-top: 30px; word-wrap:break-word;
+	}
+	h2{margin: 55px 0 -30px 65px; font-size:22px; white-space:pre;
+	text-align:center; width: 400px;}

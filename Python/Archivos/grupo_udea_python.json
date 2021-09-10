@@ -1,0 +1,14 @@
+{
+  "docente": {
+    "nombre": "john Arrieta",
+    "rol": "Formador",
+    "email": "johncarlosarrietaarrieta@gmail.com"
+  },
+  "alumnos": [
+    "Juan",
+    "maria",
+    "jose",
+    "pedo"
+  ],
+  "numero": 7
+}
