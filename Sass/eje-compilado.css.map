@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,EAAG;EACF,gBAAgB,EAHF,IAAI",
+"sources": ["ejemplo.scss"],
+"names": [],
+"file": "eje-compilado.css"
+}
